@@ -52,7 +52,7 @@ btn.addEventListener("click", getRepos)
 
     async function getRepos(){
         const repo = document.getElementById("rsearch").value
-        const url = "https://api.github.com/search/repositories?q="+document.location.hostname
+        const url = "https://api.github.com/search/repositories?q="+repo+";per_page=1"
         console.log(url)
         const divResult = document.getElementById("divResult")
         const response = await fetch(url)
