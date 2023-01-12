@@ -1,4 +1,4 @@
-# GitHub Repo Finder
+# GitHub Repo Finder (Website & Chrome extension)
 # Team Name: wHackers
 # Our idea:
 When I come across a cool website, I get this immense curiosity to know how it was built. So, 
