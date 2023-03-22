@@ -1,6 +1,5 @@
 # GitHub Repo Finder (Website & Chrome extension)
-# Team Name: wHackers
-# Our idea:
+# Idea:
 When I come across a cool website, I get this immense curiosity to know how it was built. So, 
 we go to GitHub, which is the most used code sharing platform, and type in the name of the 
 website in the search box. Sometimes, it will be easy to find the right repository. Often, scrolling 
